@@ -4,7 +4,7 @@ include_once("templates/header.php");
 
 ?>
 
-<h1>Criando contato</h1>
+<h1>Testando pagina contato</h1>
 
     
 <?php
