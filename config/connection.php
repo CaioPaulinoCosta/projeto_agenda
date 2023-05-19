@@ -1,19 +1,19 @@
 <?php
 
-$host = "localhost";
-$dbname = "agenda";
-$user = "root";
-$pass = "";
+  $host = "localhost";
+  $dbname = "agenda";
+  $user = "root";
+  $pass = "";
 
-try {
+  try {
 
-$conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
+    $conn = new PDO("mysql:host=$host;dbname=$dbname", $user, $pass);
 
-// Ativa modo de erros
+    // Ativar o modo de erros
+    $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
-$conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
-
-} catch(PDOException $e) {
+  } catch(PDOException $e) {
+    // erro na conexão
     $error = $e->getMessage();
-    echo "Erro $error";
-}
+    echo "Erro: $error";
+  }
