@@ -9,8 +9,6 @@ CSS.
 PHP.
 MySQL.
 
-## Starting 
-
 ## To open the project right now
 > click on the link: (https://github.com/CaioPaulinoCosta/projetoBlogVert);
 > download the repository;
