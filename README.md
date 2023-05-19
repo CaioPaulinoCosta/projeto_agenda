@@ -15,7 +15,7 @@ MySQL.
 > click on the link: (https://github.com/CaioPaulinoCosta/projetoBlogVert);
 > download the repository;
 > open your localhost;
-> import the file "agenda.sql" found in the database folder
+> import the file "agenda.sql" found in the database folder;
 > open the project in your localhost.
 
 --- 
