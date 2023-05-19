@@ -6,6 +6,7 @@ Este é o README do projeto Agenda, uma agenda de contatos onde o usuario conseg
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 HTML.
 CSS.
+Bootstrap.
 PHP.
 MySQL.
 
