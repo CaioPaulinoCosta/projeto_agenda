@@ -17,6 +17,9 @@ MySQL.
 > import the file "agenda.sql" found in the database folder;
 > open the project in your localhost.
 
+## Visualização do projeto
+![projeto-agenda](https://github.com/CaioPaulinoCosta/projetoAgenda/assets/130261742/2a107218-b556-40b1-8fad-4dde8aaa5d18)
+
 --- 
 
 ##### Make with 🧠
